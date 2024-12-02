@@ -4,4 +4,4 @@ title: "포트폴리오"
 ---
 
 # 자기소개
-[네이버](https://naver.com)
+[프로젝트](https://github.com/Hans975/team_project2)
