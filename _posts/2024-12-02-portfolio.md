@@ -21,4 +21,5 @@ HTML 문법을 공부했고 이를 프로젝트에 적용했습니다.
 ## JavaScript
 Javascript를 활용해서 유저가 사용할 여러 이벤트를 만들었습니다. 
 
+# Project
 [프로젝트](https://github.com/Hans975/team_project2)
