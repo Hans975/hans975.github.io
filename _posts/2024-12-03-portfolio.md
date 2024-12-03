@@ -20,26 +20,26 @@ typora-root-url: ../
 # Skills
 <div style="border: 2px solid orange; padding: 15px; border-radius: 5px; background-color: #FFF4E6;">
   <div>
-      <b>language</b>
+      language
     </div>
-    <ul>
-        <li style="background-color: #ffe6e6; display: inline-block;"><b>java</b></li>
-        <li style="background-color: #E3F2FD; display: inline-block;"><b>C++</b></li>
+    <ul style="margin-bottom: 20px;">
+        <li style="background-color: #ffe6e6; display: inline-block;">java</li>
+        <li style="background-color: #E3F2FD; display: inline-block;">C++</li>
     </ul>
     <div>
-        <b>back-end</b>
+        back-end
     </div>
-    <ul>
-        <li style="background-color: #E8F5E9; display: inline-block;"><b>Spring</b></li>
-        <li style="background-color: #FFF9C4; display: inline-block;"><b>MyBatis</b></li>
+    <ul style="margin-bottom: 20px;">
+        <li style="background-color: #E8F5E9; display: inline-block;">Spring</li>
+        <li style="background-color: #FFF9C4; display: inline-block;">MyBatis</li>
     </ul>
     <div>
-        <b>front-end</b>
+        front-end
     </div>
-    <ul>
-        <li style="background-color: #FFE0B2; display: inline-block;"><b>Html5</b></li>
-        <li style="background-color: #FCE4EC; display: inline-block;"><b>javascript</b></li>
-        <li style="background-color: #E8F8F5; display: inline-block;"><b>React</b></li>
+    <ul style="margin-bottom: 20px;">
+        <li style="background-color: #FFE0B2; display: inline-block;">Html5</li>
+        <li style="background-color: #FCE4EC; display: inline-block;">JavaScript</li>
+        <li style="background-color: #E8F8F5; display: inline-block;">React</li>
     </ul>
 </div>
 
