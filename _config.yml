@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Java 백엔드 개발자"
   location         : "South Korea"
-  email            :
+  email            : "jameshanjm@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
