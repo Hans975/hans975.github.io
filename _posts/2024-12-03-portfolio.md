@@ -22,7 +22,20 @@ typora-root-url: ../
 
 java입니다.
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #ffe6e6; display: inline-block;">   java </div>
+<div style="border: 2px solid orange; padding: 15px; border-radius: 5px; background-color: #FFF4E6;">
+    Language
+      <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #ffe6e6; display: inline-block;">
+    java
+  </div>
+</div>
+
+
+
+
+
+
+
+
 
 # Project
 
