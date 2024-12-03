@@ -18,10 +18,6 @@ typora-root-url: ../
 
 
 # Skills
-> java
-
-java입니다.
-
 <div style="border: 2px solid orange; padding: 15px; border-radius: 5px; background-color: #FFF4E6;">
   <div>
       language
@@ -35,31 +31,20 @@ java입니다.
     </div>
     <ul>
         <li style="background-color: #E8F5E9; display: inline-block;">Spring</li>
-        <li style="background-color: #FFF9C4; display: inline-block;">MyBatis<li>
+        <li style="background-color: #FFF9C4; display: inline-block;">MyBatis</li>
     </ul>
     <div>
         front-end
     </div>
     <ul>
         <li style="background-color: #FFE0B2; display: inline-block;">Html5</li>
-        <li style="background-color: #FCE4EC; display: inline-block;">JavaScript<li>
-        <li style="background-color: #E8F8F5; display: inline-block;">React<li>
+        <li style="background-color: #FCE4EC; display: inline-block;">JavaScript</li>
+        <li style="background-color: #E8F8F5; display: inline-block;">React</li>
+    </ul>
+</div>
+     
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Project
 
