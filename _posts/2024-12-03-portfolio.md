@@ -20,7 +20,7 @@ typora-root-url: ../
 # Skills
 <div style="border: 2px solid orange; padding: 15px; border-radius: 5px; background-color: #FFF4E6;">
   <div>
-      language
+      <b>language</b>
     </div>
     <ul>
         <li style="background-color: #ffe6e6; display: inline-block;">java</li>
@@ -42,7 +42,8 @@ typora-root-url: ../
         <li style="background-color: #E8F8F5; display: inline-block;">React</li>
     </ul>
 </div>
-     
+
+​     
 
  
 
