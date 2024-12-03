@@ -44,8 +44,8 @@ java입니다.
         <li style="background-color: #FFE0B2; display: inline-block;">Html5</li>
         <li style="background-color: #FCE4EC; display: inline-block;">JavaScript<li>
         <li style="background-color: #E8F8F5; display: inline-block;">React<li>
-    </ul>
-</div>
+
+ 
 
 
 
