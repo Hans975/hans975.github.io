@@ -24,6 +24,7 @@ typora-root-url: ../
     </div>
     <ul>
         <li style="background-color: #ffe6e6; display: inline-block;"><b>java</b></li>
+        &nbsp;&nbsp;&nbsp;
         <li style="background-color: #E3F2FD; display: inline-block;"><b>C++</b></li>
     </ul>
     <div>
@@ -31,6 +32,7 @@ typora-root-url: ../
     </div>
     <ul>
         <li style="background-color: #E8F5E9; display: inline-block;"><b>Spring</b></li>
+        &nbsp;&nbsp;&nbsp;
         <li style="background-color: #FFF9C4; display: inline-block;"><b>MyBatis</b></li>
     </ul>
     <div>
@@ -38,7 +40,9 @@ typora-root-url: ../
     </div>
     <ul>
         <li style="background-color: #FFE0B2; display: inline-block;"><b>Html5</b></li>
+        &nbsp;&nbsp;&nbsp;
         <li style="background-color: #FCE4EC; display: inline-block;"><b>javascript</b></li>
+        &nbsp;&nbsp;&nbsp;
         <li style="background-color: #E8F8F5; display: inline-block;"><b>React</b></li>
     </ul>
 </div>
