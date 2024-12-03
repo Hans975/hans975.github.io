@@ -22,9 +22,7 @@ typora-root-url: ../
 
 java입니다.
 
-> spring
-
-spring입니다.
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">   이 박스 안에 내용을 작성하세요. </div>
 
 
 
