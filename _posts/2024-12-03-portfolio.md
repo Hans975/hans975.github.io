@@ -23,23 +23,23 @@ typora-root-url: ../
       <b>language</b>
     </div>
     <ul>
-        <li style="background-color: #ffe6e6; display: inline-block;">java</li>
-        <li style="background-color: #E3F2FD; display: inline-block;">C++</li>
+        <li style="background-color: #ffe6e6; display: inline-block;"><b>java</b></li>
+        <li style="background-color: #E3F2FD; display: inline-block;"><b>C++</b></li>
     </ul>
     <div>
-        back-end
+        <b>back-end</b>
     </div>
     <ul>
-        <li style="background-color: #E8F5E9; display: inline-block;">Spring</li>
-        <li style="background-color: #FFF9C4; display: inline-block;">MyBatis</li>
+        <li style="background-color: #E8F5E9; display: inline-block;"><b>Spring</b></li>
+        <li style="background-color: #FFF9C4; display: inline-block;"><b>MyBatis</b></li>
     </ul>
     <div>
-        front-end
+        <b>front-end</b>
     </div>
     <ul>
-        <li style="background-color: #FFE0B2; display: inline-block;">Html5</li>
-        <li style="background-color: #FCE4EC; display: inline-block;">JavaScript</li>
-        <li style="background-color: #E8F8F5; display: inline-block;">React</li>
+        <li style="background-color: #FFE0B2; display: inline-block;"><b>Html5</b></li>
+        <li style="background-color: #FCE4EC; display: inline-block;"><b>javascript</b></li>
+        <li style="background-color: #E8F8F5; display: inline-block;"><b>React</b></li>
     </ul>
 </div>
 
