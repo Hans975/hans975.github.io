@@ -61,7 +61,7 @@ typora-root-url: ../
 
 # What I can Do
 
-<div style='border: 1px solid blue; padding: 10px; border-radius: 5px; background-color: #E3F2FD; mad-width:300px'>
+<div style='border: 1px solid blue; padding: 10px; border-radius: 5px; background-color: #E3F2FD; text-align: center; mad-width:300px'>
     <h1>
         <b>프로젝트</b>
     </h1>
