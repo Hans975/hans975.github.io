@@ -22,7 +22,7 @@ typora-root-url: ../
 # Skills
 <div style="border: 2px solid orange; padding: 15px; border-radius: 5px; background-color: #FFF4E6;">
   <div>
-      <b>language</b>
+      <h3><b>language</b></h3>
     </div>
     <ul>
         <li style="background-color: #F4ECF7; display: inline-block;"><b>python</b></li>
@@ -32,7 +32,7 @@ typora-root-url: ../
         <li style="background-color: #E3F2FD; display: inline-block;"><b>C++</b></li>
     </ul>
     <div>
-        <b>back-end</b>
+        <h3><b>back-end</b></h3>
     </div>
     <ul>
         <li style="background-color: #E8F5E9; display: inline-block;"><b>Spring</b></li>
@@ -40,7 +40,7 @@ typora-root-url: ../
         <li style="background-color: #FFF9C4; display: inline-block;"><b>MyBatis</b></li>
     </ul>
     <div>
-        <b>front-end</b>
+        <h3><b>front-end</b></h3>
     </div>
     <ul>
         <li style="background-color: #FFE0B2; display: inline-block;"><b>Html5</b></li>
