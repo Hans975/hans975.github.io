@@ -15,6 +15,8 @@ typora-root-url: ../
 
 ![free-icon-font-book-open-cover-7720150 (2)](/images/2024-12-03-portfolio/free-icon-font-book-open-cover-7720150 (2).png)  서울대학교 전기정보공학부
 
+<br/>
+
 
 
 # Skills
@@ -48,9 +50,9 @@ typora-root-url: ../
         <li style="background-color: #E8F8F5; display: inline-block;"><b>React</b></li>
     </ul>
 </div>
+&nbsp;&nbsp;&nbsp;
 
-
- 
+&nbsp;&nbsp;&nbsp;
 
 
 # Project
