@@ -50,6 +50,7 @@ typora-root-url: ../
         <li style="background-color: #E8F8F5; display: inline-block;"><b>React</b></li>
     </ul>
 </div>
+
 &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;
@@ -61,7 +62,7 @@ typora-root-url: ../
 
 [![prpoject](/images/2021-12-02-portfolio/prpoject.png)](https://github.com/Hans975/team_project2)
 
-
+<br/>
 
 # What I Can Do
 
