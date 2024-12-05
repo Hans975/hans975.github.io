@@ -71,6 +71,8 @@ typora-root-url: ../
     </h1>
     저는 대학교에서 여러 프로젝트를 진행하였고 그 과정에서 다른 팀원들과 소통하면서 서로에게 긍정적인 영향을 주었습니다. 또한 국비 지원 과정에서 처음 해보는 백엔드를 다른 팀원들과 배워가면서 공부하였고 좋은 결과물을 이끌어낼 수 있었습니다. 그 과정에서 제가 주도적인 역할을 수행하기도 하면서 모르는 부분은 다른 사람의 도움을 받아 능력을 향상시킬 수 있었습니다.
 </div>
+&nbsp;&nbsp;&nbsp;
+
 <div style='border: 1px solid red; padding: 10px; border-radius: 5px; background-color: #F5D0A9; text-align: center; mad-width:300px'>
     <h1>
         <b>도전정신</b>
