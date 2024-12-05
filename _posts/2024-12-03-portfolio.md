@@ -67,7 +67,7 @@ typora-root-url: ../
 # What I Can Do
 
 <div style='border: 1px solid blue; padding: 10px; border-radius: 5px; background-color: #E3F2FD; mad-width:300px'>
-    <h1 text-align: center;>
+    <h1 text-align: center>
         <b>프로젝트</b>
     </h1>
     저는 대학교에서 여러 프로젝트를 진행하였고 그 과정에서 다른 팀원들과 소통하면서 서로에게 긍정적인 영향을 주었습니다. 또한 국비 지원 과정에서 처음 해보는 백엔드를 다른 팀원들과 배워가면서 공부하였고 좋은 결과물을 이끌어낼 수 있었습니다. 그 과정에서 제가 주도적인 역할을 수행하기도 하면서 모르는 부분은 다른 사람의 도움을 받아 능력을 향상시킬 수 있었습니다.
@@ -76,7 +76,7 @@ typora-root-url: ../
 &nbsp;&nbsp;&nbsp;
 
 <div style='border: 1px solid red; padding: 10px; border-radius: 5px; background-color: #F5D0A9; mad-width:300px'>
-    <h1 text-align: center;>
+    <h1 text-align: center>
         <b>도전정신</b>
     </h1>
     C++를 전혀 모르는 상태에서 고난이도 알고리즘 문제를 다루는 스터디에 참여하며 도전적인 목표를 세웠습니다. 문법을 하나하나 분석하고 이해하는 과정을 통해 점차 실력을 키웠으며, 이후에는 직접 문제를 해결할 수 있는 수준에 도달했습니다. 이 경험은 스스로 한계를 극복하고 새로운 영역을 개척한 도전적이고 값진 시간이었습니다.
