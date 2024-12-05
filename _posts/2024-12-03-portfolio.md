@@ -49,8 +49,6 @@ typora-root-url: ../
     </ul>
 </div>
 
-     - java : 학교에서 C++를 수업할 때 코딩에 재미를 느껴 java를 독학했습니다. 현재는 java를 주언어로 백엔드를 하고 있습니다.
-     - spring : 
 
  
 
