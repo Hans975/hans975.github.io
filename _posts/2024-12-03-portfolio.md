@@ -62,64 +62,13 @@ typora-root-url: ../
 
 [![prpoject](/images/2021-12-02-portfolio/prpoject.png)](https://github.com/Hans975/team_project2)
 
+사진을 누르면 git으로 이동합니다.
+
 <br/>
 
 
 
-<head>   <meta charset="UTF-8">   <meta name="viewport" content="width=device-width, initial-scale=1.0">   <title>Image Hover Effect</title>   <style>     .image-container {       position: relative;       display: inline-block;       width: 300px;       height: 200px;       overflow: hidden;     }      .image-container img {       width: 100%;       height<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Hover Effect</title>
-  <style>
-    .image-container {
-      position: relative;
-      display: inline-block;
-      width: 300px;
-      height: 200px;
-      overflow: hidden;
-    }
 
-    .image-container img {
-      width: 100%;
-      height: 100%;
-      transition: transform 0.3s ease, opacity 0.3s ease;
-    }
-    
-    .image-container:hover img {
-      transform: scale(1.1); /* 확대 효과 */
-      opacity: 0.7; /* 어두워지는 효과 */
-    }
-    
-    .hover-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 20px;
-      font-weight: bold;
-      opacity: 0;
-      transition: opacity 0.3s ease;
-      pointer-events: none; /* 텍스트 위에 마우스를 올려도 링크를 방해하지 않음 */
-    }
-    
-    .image-container:hover .hover-text {
-      opacity: 1; /* 텍스트가 나타남 */
-    }
-  </style>
-</head>
-<body>
-  <a href="https://hans975.github.io/">
-
-    <div class="image-container">
-      <img src="/images/2021-12-02-portfolio/prpoject.png">
-      <div class="hover-text">Click Me!</div>
-    </div>
-  </a>
-</body>
-</html>
 
 # What I Can Do
 
