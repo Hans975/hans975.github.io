@@ -93,7 +93,14 @@ typora-root-url: ../
 </div>
 
 
+&nbsp;
 
-
-
+<div style='border: 1px solid green; padding: 10px; border-radius: 5px; background-color: #BCF5A9; mad-width:300px'>
+    <h1 style="text-align: center;">
+        <b>도전정신</b>
+    </h1>
+    <p style="text-align: justify">
+    C++를 전혀 모르는 상태에서 고난이도 알고리즘 문제를 다루는 스터디에 참여하며 도전적인 목표를 세웠습니다. 문법을 하나하나 분석하고 이해하는 과정을 통해 점차 실력을 키웠으며, 이후에는 직접 문제를 해결할 수 있는 수준에 도달했습니다. 이 경험은 스스로 한계를 극복하고 새로운 영역을 개척한 도전적이고 값진 시간이었습니다.
+    </p>
+</div>
 
