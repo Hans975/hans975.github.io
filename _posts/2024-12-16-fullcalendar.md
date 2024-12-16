@@ -7,7 +7,7 @@ typora-root-url: ../
 
 ---
 
-#fullcalendar 사용법
+# fullcalendar 사용법
 
 설치:
 
