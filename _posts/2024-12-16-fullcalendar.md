@@ -9,7 +9,7 @@ typora-root-url: ../
 
 # 최종 목표
 
-![스크린샷 2024-12-16 164340](/../../../Pictures/Screenshots/스크린샷 2024-12-16 164340.png)
+![스크린샷 2024-12-16 164340](/images/스크린샷 2024-12-16 164340.png)
 
 1. 달력 생성
 2. 첫번째 날짜는 체크인으로 인식되고 두번째 날짜는 체크아웃으로 인식
@@ -157,8 +157,6 @@ export default function Calendar() {
 
 
 # fullcalendar 사용법
-
-설치:
 
 ```cmd
 npm install @fullcalendar/react@latest 
